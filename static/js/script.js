@@ -1,6 +1,6 @@
    $('.header-slider').slick();  
 
-if($(window).width() <=319){
+if($(window).width() <=800){
 $(document).ready(function(){
    $('.slider').slick();
 });
